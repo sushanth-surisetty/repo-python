@@ -1,0 +1,10 @@
+FN='mva10_challenge.csv'
+file=open(FN,mode='w')
+file.write("Sushanth,33\n")
+file.write("Navya,26\n")
+file.write("Vijay Ganesh,29\n")
+file.write("Chiranjeevi Manjunath,26\n")
+file.write("Rajesh Kumar,28\n")
+file.write("\nfile closed . . . ")
+file.close()
+print("\nfile Closed . . . \n")

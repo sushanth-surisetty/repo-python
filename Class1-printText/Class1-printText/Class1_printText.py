@@ -1,0 +1,6 @@
+print('\n Hello World! How are you doing?')
+print("\n This is SUSHANTH SURISETTY practising Python Programming. \n Please wish me luck.")
+print("\n I am an experienced mainframes programmer , exploring new opportunities in different programming languages. \n")
+print(' I choose Python today \n')
+print(' \t testing TAB \\')
+print("\n END of Challenge 1 !! \n Good Job\n")
